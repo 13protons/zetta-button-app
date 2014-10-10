@@ -1,4 +1,4 @@
-hue-test
+Button App
 ========
 
-Zetta Server for controlling my hue lights
+Creating a mock button device for trigger app functionality. 
